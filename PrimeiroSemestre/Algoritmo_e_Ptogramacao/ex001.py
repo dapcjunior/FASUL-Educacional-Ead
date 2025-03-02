@@ -8,4 +8,4 @@ print(f'Seja bem vindo, {name}')
 
 idade = int(input('Digite sua idade! '))
 
-print()
+print(f"Voçê tem, {idade} anos de idade")
